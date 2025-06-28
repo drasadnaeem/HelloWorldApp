@@ -1,0 +1,10 @@
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Form1.resources
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+K:\Development\AutoUpdating Helloworld App\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
