@@ -19,7 +19,7 @@ namespace HelloWorldApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello, World! Version " + Application.ProductVersion);
+            MessageBox.Show("Hello, World! New Version " + Application.ProductVersion);
         }
     }
 }
